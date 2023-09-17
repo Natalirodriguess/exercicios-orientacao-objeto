@@ -1,4 +1,4 @@
-package com.example.orientacaoobjetos;
+package com.example.orientacao.objetos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
